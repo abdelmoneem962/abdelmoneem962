@@ -4,6 +4,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="50" height="50"/> </a>
+
  <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="50" height="50"/> </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="kotlin" width="50" height="50"/> </a>
  <a href="https://www.swift.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="swift" width="50" height="50"/> </a>
@@ -19,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/abdelmoneem962" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Abd Elmoneem Mohamed" /></a>
-<a href="https://www.linkedin.com/in/meneam-mohamed-067aa076/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="saja herez" /></a>
+<a href="https://www.linkedin.com/in/meneam-mohamed-067aa076/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Abd Elmoneem Mohamed"" /></a>
 <a href="https://discordapp.com/users/1062140079553912872" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Abd Elmoneem Mohamed" /></a>
  <a href="https://github.com/abdelmoneem962" target="blank"><img align="center" src="https://em-content.zobj.net/source/microsoft-teams/337/backhand-index-pointing-left_medium-light-skin-tone_1f448-1f3fc_1f3fc.png" alt="Abd Elmoneem Mohamed" height="80" width="100" /></a>
 </p>
